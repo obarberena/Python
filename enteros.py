@@ -1,5 +1,5 @@
-number_one = 10
-number_two = 4
+number_one = 5
+number_two = 10
 
 result = number_one + number_two
 
